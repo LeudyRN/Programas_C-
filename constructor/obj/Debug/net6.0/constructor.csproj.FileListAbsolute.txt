@@ -1,0 +1,15 @@
+C:\Users\Leudy\constructor\obj\Debug\net6.0\constructor.csproj.AssemblyReference.cache
+C:\Users\Leudy\constructor\obj\Debug\net6.0\constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leudy\constructor\obj\Debug\net6.0\constructor.AssemblyInfoInputs.cache
+C:\Users\Leudy\constructor\obj\Debug\net6.0\constructor.AssemblyInfo.cs
+C:\Users\Leudy\constructor\obj\Debug\net6.0\constructor.csproj.CoreCompileInputs.cache
+C:\Users\Leudy\constructor\bin\Debug\net6.0\constructor.exe
+C:\Users\Leudy\constructor\bin\Debug\net6.0\constructor.deps.json
+C:\Users\Leudy\constructor\bin\Debug\net6.0\constructor.runtimeconfig.json
+C:\Users\Leudy\constructor\bin\Debug\net6.0\constructor.dll
+C:\Users\Leudy\constructor\bin\Debug\net6.0\constructor.pdb
+C:\Users\Leudy\constructor\obj\Debug\net6.0\constructor.dll
+C:\Users\Leudy\constructor\obj\Debug\net6.0\refint\constructor.dll
+C:\Users\Leudy\constructor\obj\Debug\net6.0\constructor.pdb
+C:\Users\Leudy\constructor\obj\Debug\net6.0\constructor.genruntimeconfig.cache
+C:\Users\Leudy\constructor\obj\Debug\net6.0\ref\constructor.dll
