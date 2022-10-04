@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BXBnZk2MFK6PcHAhkhoj5MBqjn3qxNB1AD9TRpCyHT+FpjOOuNuBGE2JkqqCqv7nDSsKPoSTCS4fcebvwCzg8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Leudy\\Unidad5\\Unidad5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leudy\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
