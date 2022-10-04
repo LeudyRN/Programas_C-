@@ -1,0 +1,15 @@
+C:\Users\Leudy\HERENCIA2\bin\Debug\net6.0\HERENCIA2.exe
+C:\Users\Leudy\HERENCIA2\bin\Debug\net6.0\HERENCIA2.deps.json
+C:\Users\Leudy\HERENCIA2\bin\Debug\net6.0\HERENCIA2.runtimeconfig.json
+C:\Users\Leudy\HERENCIA2\bin\Debug\net6.0\HERENCIA2.dll
+C:\Users\Leudy\HERENCIA2\bin\Debug\net6.0\HERENCIA2.pdb
+C:\Users\Leudy\HERENCIA2\obj\Debug\net6.0\HERENCIA2.csproj.AssemblyReference.cache
+C:\Users\Leudy\HERENCIA2\obj\Debug\net6.0\HERENCIA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leudy\HERENCIA2\obj\Debug\net6.0\HERENCIA2.AssemblyInfoInputs.cache
+C:\Users\Leudy\HERENCIA2\obj\Debug\net6.0\HERENCIA2.AssemblyInfo.cs
+C:\Users\Leudy\HERENCIA2\obj\Debug\net6.0\HERENCIA2.csproj.CoreCompileInputs.cache
+C:\Users\Leudy\HERENCIA2\obj\Debug\net6.0\HERENCIA2.dll
+C:\Users\Leudy\HERENCIA2\obj\Debug\net6.0\refint\HERENCIA2.dll
+C:\Users\Leudy\HERENCIA2\obj\Debug\net6.0\HERENCIA2.pdb
+C:\Users\Leudy\HERENCIA2\obj\Debug\net6.0\HERENCIA2.genruntimeconfig.cache
+C:\Users\Leudy\HERENCIA2\obj\Debug\net6.0\ref\HERENCIA2.dll

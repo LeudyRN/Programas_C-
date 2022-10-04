@@ -1,0 +1,15 @@
+C:\Users\Leudy\promedio\bin\Debug\net6.0\promedio.exe
+C:\Users\Leudy\promedio\bin\Debug\net6.0\promedio.deps.json
+C:\Users\Leudy\promedio\bin\Debug\net6.0\promedio.runtimeconfig.json
+C:\Users\Leudy\promedio\bin\Debug\net6.0\promedio.dll
+C:\Users\Leudy\promedio\bin\Debug\net6.0\promedio.pdb
+C:\Users\Leudy\promedio\obj\Debug\net6.0\promedio.csproj.AssemblyReference.cache
+C:\Users\Leudy\promedio\obj\Debug\net6.0\promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leudy\promedio\obj\Debug\net6.0\promedio.AssemblyInfoInputs.cache
+C:\Users\Leudy\promedio\obj\Debug\net6.0\promedio.AssemblyInfo.cs
+C:\Users\Leudy\promedio\obj\Debug\net6.0\promedio.csproj.CoreCompileInputs.cache
+C:\Users\Leudy\promedio\obj\Debug\net6.0\promedio.dll
+C:\Users\Leudy\promedio\obj\Debug\net6.0\refint\promedio.dll
+C:\Users\Leudy\promedio\obj\Debug\net6.0\promedio.pdb
+C:\Users\Leudy\promedio\obj\Debug\net6.0\promedio.genruntimeconfig.cache
+C:\Users\Leudy\promedio\obj\Debug\net6.0\ref\promedio.dll
